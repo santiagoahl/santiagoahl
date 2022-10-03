@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **sahumadal@unal.edu.co**
 
-- 📄 Know about my experiences [I'm a road cycling passionate](I'm a road cycling passionate)
+- 📄 Know about my experiences I'm a road cycling passionate 🚵🏻‍♂️
 
 - ⚡ Fun fact **Coffees are my breakfast, lunch and dinner!**
 
