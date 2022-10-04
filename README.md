@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Google Cloud Platform, FastAPI, TensorFlow**
 
-- 👯 I’m looking to collaborate on **Deep Learn research**
+- 👯 I’m looking to collaborate on **Deep Learning research**
 
 - 🤝 I’m looking for help with **more machine learning enthusiasts**
 
