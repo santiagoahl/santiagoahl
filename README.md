@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sahumadaloz" target="blank"><img src="https://img.shields.io/twitter/follow/sahumadaloz?logo=twitter&style=for-the-badge" alt="sahumadaloz" /></a> </p>
 
-- 🔭 I’m currently working on [RNA virus prediction](https://github.com/santiagoahl/RNA-virus-prediction)
+- 🔭 I’m currently working on [RNA taxonomy prediction](https://github.com/santiagoahl/RNA-taxonomy-prediction)
 
 - 🌱 I’m currently learning **AWS, FastAPI, TensorFlow**
 
