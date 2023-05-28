@@ -1,4 +1,4 @@
-![logo](https://github.com/santiagoahl/santiagoahl/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Santiago Ahumada Lozano</h1>
 <h3 align="center">A Mathematics, Machine Learning and Data Science Student!</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
