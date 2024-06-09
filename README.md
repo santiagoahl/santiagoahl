@@ -25,8 +25,7 @@
 
 - 📄 Know about my experiences I'm a road cycling passionate 🚵🏻‍♂️
 
-- ⚡ Fun fact **Coffees are my breakfast, lunch and dinner!**
-
+- ⚡ Fun fact **Agua panela are my breakfast, lunch and dinner when working @ home!**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sahumadaloz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahumadaloz" height="30" width="40" /></a>
