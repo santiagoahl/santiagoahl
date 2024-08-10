@@ -11,15 +11,15 @@
 
 - 🔭 I’m currently working on [RNA taxonomy prediction](https://github.com/santiagoahl/RNA-taxonomy-prediction)
 
-- 🌱 I’m currently learning **AWS, FastAPI, TensorFlow**
+- 🌱 I’m currently learning **Causal Inference, Data-Driven Decision Making, Storytelling**
 
-- 👯 I’m looking to collaborate on **Deep Learning research**
+- 👯 I’m looking to collaborate on **Causal Inference, Customer Churn, Customer Segmentation**
 
 - 🤝 I’m looking for help with **more machine learning enthusiasts**
 
 - 📝 I regularly write articles on [https://elparaisodecantor.wordpress.com/sahumadal/](https://elparaisodecantor.wordpress.com/sahumadal/)
 
-- 💬 Ask me about **Scikitlearn, Tensorflow, Pytorch**
+- 💬 Ask me about **Scikitlearn, Linear Algebra, Customer Churn**
 
 - 📫 How to reach me **sahumadal@unal.edu.co**
 
