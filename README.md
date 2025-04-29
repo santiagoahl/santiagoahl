@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sahumadaloz" target="blank"><img src="https://img.shields.io/twitter/follow/sahumadaloz?logo=twitter&style=for-the-badge" alt="sahumadaloz" /></a> </p>
 
-- 🔭 I’m currently working on [RNA taxonomy prediction](https://github.com/santiagoahl/RNA-taxonomy-prediction)
+- 🔭 I’m currently working on building an [Scholar AI Agent with RAG](https://docs.google.com/document/d/1kDIWXaIJaM7poV8OmBgaTzzqV0_Gmv_TZoTe-XPUYT8/edit?usp=sharing)
 
 - 🌱 I’m currently learning **Causal Inference, Data-Driven Decision Making, Storytelling**
 
